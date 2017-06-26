@@ -1,0 +1,24 @@
+{
+    "name": "laravel5.4/curd",
+    "type": "library",
+    "description": "curd for laravel 5.4",
+    "keywords": ["curd"],
+    "homepage": "https://github.com/xfyl628725/laravel5.4_curd.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xufu",
+            "email": "457143680@qq.com",
+            "homepage": "",
+            "role": ""
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}
